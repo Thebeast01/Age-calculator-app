@@ -1,0 +1,38 @@
+@media (max-width: 765px) {
+  .input-box input {
+    width: 5.5rem;
+  }
+}
+@media (max-width: 465px) {
+  .input-box {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .input-box input {
+    width: 100%;
+  }
+  .day{
+    margin-bottom: .5rem;
+  }
+  
+  .month{
+    margin-bottom: .5rem;
+  }
+  .year{
+    margin-bottom: .5rem;
+  }
+  .output h1{
+    font-size: 2.2rem;
+
+  }
+}
+@media (max-width : 375px) {
+    .img{
+        width: 90%;
+
+    }
+    .btn{
+        justify-self: center;
+    }
+    
+}
