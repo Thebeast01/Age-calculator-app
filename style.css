@@ -90,7 +90,7 @@ img {
   justify-content: center;
   align-items: center;
   border: none;
-  background-image: url(/icon-arrow.svg);
+  background-image: url(./icon-arrow.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
